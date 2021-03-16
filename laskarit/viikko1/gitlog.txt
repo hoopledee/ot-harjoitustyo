@@ -1,0 +1,31 @@
+C:\Users\juhan\ot_viikko1>git log --stat
+commit 004d77734c6f02be9d31b180e5201b03629f73d0 (HEAD -> master)
+Author: Juhani <juhani.kontulainen@helsinki.fi>
+Date:   Tue Mar 16 19:13:09 2021 +0200
+
+    file1 poistettu file2 on nyt file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit afa4698827832279f114986416463cd9f681daac
+Author: Juhani <juhani.kontulainen@helsinki.fi>
+Date:   Tue Mar 16 19:05:10 2021 +0200
+
+    tiedosto hakemisto ja kolme file luotu
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6f0a635bfc37adfcb4f0590d039e70a940682d07
+Author: Juhani <juhani.kontulainen@helsinki.fi>
+Date:   Tue Mar 16 18:48:45 2021 +0200
+
+    useita muutoksia
+
+ eka.txt    | 7 +++++--
+ kolmas.txt | 4 +++-
+:
