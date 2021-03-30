@@ -12,7 +12,7 @@ kukin käyttäjä luo oman yksityisen tilinsä sovellukseen.  Kaikki käyttäjä
 ## Suunnitellut toiminnallisuudet
 
 * Mahdollisuus luoda uusi tili omalla käyttäjänimellä ja salasanalla
- * ulos kirjautuminen
+	* ulos kirjautuminen
 
 * Koodin pätkät tallennetaan hakemistoon oman kielen alle
 * Tallennus muodostuu
