@@ -26,7 +26,8 @@ class TestMaksukortti(unittest.TestCase):
     def test_ota_rahaa_palauttaa_true_jos_rahaa_riittaa(self):
         vertailu =self.maksukortti.ota_rahaa(1)
         self.assertEqual(vertailu, True)
-        
+
     def test_ota_rahaa_palauttaa_False_jos_rahaa_ei_riittaa(self):
         vertailu =self.maksukortti.ota_rahaa(100)
         self.assertEqual(vertailu, False)
+        
