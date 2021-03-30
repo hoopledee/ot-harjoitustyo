@@ -16,14 +16,14 @@ kukin käyttäjä luo oman yksityisen tilinsä sovellukseen.  Kaikki käyttäjä
 
 * Koodin pätkät tallennetaan hakemistoon oman kielen alle
 * Tallennus muodostuu
- * Koodista
- * selityksestä mihin koodia käytetään
- * koodi pätkälle annetusta nimestä
- * luomis päivämäärästä
+	* Koodista
+	* selityksestä mihin koodia käytetään
+	* koodi pätkälle annetusta nimestä
+	* luomis päivämäärästä
 
 * Haku
- * Koodi pätkiä mahdollista hakea avain sanan perusteella
+	* Koodi pätkiä mahdollista hakea avain sanan perusteella
 
 * Editointi
- * Käyttäjä voi editoida jo luomaansa koodi pätkää
- * koodi pätkiä voi poistaa
+	* Käyttäjä voi editoida jo luomaansa koodi pätkää
+	* koodi pätkiä voi poistaa
